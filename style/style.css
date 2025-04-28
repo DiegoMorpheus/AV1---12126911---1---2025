@@ -103,7 +103,7 @@ img {
   max-width: 100%;
   height: auto; /* Opcional, mas geralmente recomendado */
   /* object-fit: cover; /* Opcional, para controlar a forma como a imagem é redimensionada */
-   object-position: center; /* Opcional, para controlar a posição da imagem 
+   object-position: center; /* Opcional, para controlar a posição da imagem */
 }
     
   
